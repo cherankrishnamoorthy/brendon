@@ -38,4 +38,12 @@ sdfsd pp
 
 sdfs
 
+a 
+
+basename(path)
+
+
+c
+
+d
 ?> 
